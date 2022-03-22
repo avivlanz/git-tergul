@@ -1,1 +1,1 @@
-# git-tergul
+#devops seminar information
