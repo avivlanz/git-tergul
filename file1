@@ -1,2 +1,6 @@
 file 1
+<<<<<<< HEAD
 this is another change
+=======
+this is a change
+>>>>>>> 22fc8f285bbf15cac88e05c933536def0f318713
